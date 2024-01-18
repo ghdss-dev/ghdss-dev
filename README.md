@@ -91,7 +91,7 @@ Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a
 
    <img align="center" alt="ghdss-dev-ionic" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
 
-  
+   <img align="center" alt="ghdss-dev-react-native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div>
 

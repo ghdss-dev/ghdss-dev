@@ -14,7 +14,13 @@
   
 ### 📖 Sobre mim
 
-Estudando há mais de 2 anos na área de Desenvolvimento Web e Mobile, enxergo a TI como grande ponto de propulsão para o negócio. Tive a oportunidade de criar projetos acadêmicos e pessoais para aprimorar boas praticas de arquitetura no padrão MVC e procedural com a intenção de adquirir experiência e resolução de problemas com vários assuntos da vida.
+Sou Gustavo Henrique, e tenho a paixão de traduzir ideias inovadoras em experiências online cativantes como um desenvolvedor web. 
+
+Ao longo dos anos, mergulhei nas complexidades do desenvolvimento web, aprimorando minhas habilidades em diversas linguagens, como HTML, CSS, JavaScript e frameworks modernos como React e Angular. Minha jornada não é apenas sobre códigos, mas sim sobre construir soluções que transcendem a estética para fornecer uma experiência envolvente e intuitiva para os usuários.
+
+Minha abordagem envolve colaboração estreita com clientes para entender suas necessidades e visões. Seja um site institucional, uma plataforma de comércio eletrônico dinâmica ou uma aplicação web interativa, estou preparado para traduzir seus conceitos em realidade digital.
+
+Além do desenvolvimento técnico, mantenho-me atualizado com as últimas tendências e tecnologias para garantir que cada projeto seja construído com base nos padrões mais recentes da indústria. Acredito que a aprendizagem contínua é crucial nesse campo em constante evolução.
 
 </details>
 

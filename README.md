@@ -14,13 +14,21 @@
   
 ### 📖 Sobre mim
 
-Sou Gustavo Henrique, e tenho a paixão de traduzir ideias inovadoras em experiências online cativantes como um desenvolvedor web. 
+Sou desenvolvedor Full Stack, 
 
-Ao longo dos anos, mergulhei nas complexidades do desenvolvimento web, aprimorando minhas habilidades em diversas linguagens, como HTML, CSS, JavaScript e frameworks modernos como React e Angular. Minha jornada não é apenas sobre códigos, mas sim sobre construir soluções que transcendem a estética para fornecer uma experiência envolvente e intuitiva para os usuários.
+Em Front-End tenho experiência com HTML, CSS, JavaScript, Bootstrap, React, Angular e Vue Js.
 
-Minha abordagem envolve colaboração estreita com clientes para entender suas necessidades e visões. Seja um site institucional, uma plataforma de comércio eletrônico dinâmica ou uma aplicação web interativa, estou preparado para traduzir seus conceitos em realidade digital.
+No Back-end tenho conhecimento com as seguintes tecnologias:    
+Java + Spring Boot com projeto Maven + Lombok + Spring Dev Tools + Spring Boot Start Web 
 
-Além do desenvolvimento técnico, mantenho-me atualizado com as últimas tendências e tecnologias para garantir que cada projeto seja construído com base nos padrões mais recentes da indústria. Acredito que a aprendizagem contínua é crucial nesse campo em constante evolução.
+Estou imerso na aprendizagem do desenvolvimento de aplicativos, explorando diversas tecnologias que incluem: 
+Android Studio utilizando tanto Java quanto Kotlin,
+Flutter com a linguagem Dart, e
+React Native em conjunto com Node.js.
+
+Também participei da criação de Dashboards utilizando python, Power BI com Sqlite e PostgreSQL para bancos de dados relacionais em diferentes assuntos para análise de dados. 
+
+Além de aprimorar habilidades técnicas, minha experiência em projetos pessoais e acadêmicos também me possibilitou a desenvolver qualidades pessoais, como mentalidade colaborativa, bom relacionamento com colegas de faculdade, boa aceitação de feedbacks, resiliência, análise crítica e resolução de problemas.
 
 </details>
 

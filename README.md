@@ -40,7 +40,7 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss-dev&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-### 💻 Estudando atualmente tecnologias Front - end
+### 💻 tecnologias Front - end
 
 <div style="display: inline_block"><br>
   
@@ -51,7 +51,7 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
   
 </div>
 
-### 💻 Estudando atualmente tecnologias Back - end 
+### 💻 tecnologias Back - end 
 
 <div style="display: inline_block"><br> 
   
@@ -68,7 +68,7 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
 </div>
 
 
-### 💻 Estudando atualmente tecnologias Voltados a Framework Front - end 
+### 💻 tecnologias Voltados a Framework Front - end 
 <div style="display: inline_block"><br> 
   
  <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -81,7 +81,7 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
 
 </div>
 
-### 💻 Estudando atualmente tecnologias Voltados a Framework Back - end 
+### 💻 tecnologias Voltados a Framework Back - end 
 <div style="display: inline_block"><br> 
   
  <img align="center" alt="ghdss25-spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -89,7 +89,7 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
 </div>
 
 
-### 💻 Estudando atualmente tecnologias Nativas 
+### 💻 tecnologias Nativas 
 
 <div style="display: inline_block"><br> 
   

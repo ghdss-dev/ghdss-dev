@@ -65,6 +65,10 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
   
  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
 
+ <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
+
+ <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
 </div>
 
 
@@ -98,7 +102,7 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
   
 </div>
 
-### 💻 Estudando atualmente tecnologias Híbridas  
+### 💻 tecnologias Híbridas  
 
 <div style="display: inline_block"><br> 
 
@@ -110,7 +114,7 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
 
 </div>
 
-### 💻 Estudando atualmente tecnologias de Banco de Dados
+### 💻 Banco de Dados
 
 <div style="display: inline_block"><br> 
   

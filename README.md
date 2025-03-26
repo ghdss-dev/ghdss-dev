@@ -68,7 +68,7 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
 ### 💻 tecnologias Voltados a Framework Back - end 
 <div style="display: inline_block"><br> 
   
- <img align="center" alt="ghdss25-spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
 
 </div>
 
@@ -85,12 +85,6 @@ Além de aprimorar habilidades técnicas, minha experiência em projetos pessoai
 ### 💻 tecnologias Híbridas  
 
 <div style="display: inline_block"><br> 
-
-   <img align="center" alt="ghdss-dev-flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-
-   <img align="center" alt="ghdss-dev-ionic" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-
-   <img align="center" alt="ghdss-dev-react-native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div>
 
